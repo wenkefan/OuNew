@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="BaseAppTheme.LauncherAppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@mipmap/ic_launcher_bg</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+
+    </style>
+
+</resources>
